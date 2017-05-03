@@ -1,0 +1,13 @@
+{
+  "name": "electron-redis",
+  "version": "0.0.1",
+  "description": "electron-redis",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/electron app"
+  },
+  "devDependencies": {
+    "electron": "^1.6.6",
+    "lodash": "^4.17.4"
+  }
+}
